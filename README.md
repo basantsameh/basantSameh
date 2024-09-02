@@ -25,7 +25,7 @@ I'm Basant Sameh  from Mansoura, Egypt. I am passionate about AI development and
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/basantsameh) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/basant-sameh-874495251/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/basantsameh) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='ResearchGate' height='40'>](https://www.researchgate.net/profile/Mahmoud-Mohammed-20)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='ResearchGate' height='40'>](https://scholar.google.com/citations?user=qE2WRxMAAAAJ&hl=en)
 
 
 
